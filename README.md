@@ -8,7 +8,7 @@ I am currently a postgraduate student enrolled in the [Master of Information Tec
 
 I have a strong and diverse passion for software development and artificial intelligence. I love exploring new technologies and continuously improving my skills.
 
-## Languages
+## Programming Languages
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50" />
@@ -19,7 +19,7 @@ I have a strong and diverse passion for software development and artificial inte
 
 <!-- credit: https://devicon.dev/ -->
 
-## Software
+## Tools
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50" />
