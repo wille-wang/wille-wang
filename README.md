@@ -57,6 +57,7 @@ I have a strong and diverse passion for software development and artificial inte
   - [Cloud Computing (COMP90024)](https://handbook.unimelb.edu.au/2024/subjects/comp90024)
   - [Distributed Systems (COMP90015)](https://handbook.unimelb.edu.au/2023/subjects/comp90015)
   - [Haskell and Prolog (COMP90048)](https://handbook.unimelb.edu.au/2024/subjects/comp90048)
+  - [Project Management (SWEN90016)](https://handbook.unimelb.edu.au/2024/subjects/swen90016)
 - **artificial intelligence**
   - [Natural Language Processing (COMP90042)](https://handbook.unimelb.edu.au/2024/subjects/comp90042)
   - [Automated Planning (COMP90054)*](https://handbook.unimelb.edu.au/2024/subjects/comp90054)
@@ -65,7 +66,5 @@ I have a strong and diverse passion for software development and artificial inte
   - [Advanced Database Systems (COMP90050)](https://handbook.unimelb.edu.au/2023/subjects/comp90050)
 - **visualization**
   - [Information Visualization (GEOM90007)](https://handbook.unimelb.edu.au/2023/subjects/geom90007)
-- **project**
-  - [Project Management (SWEN90016)](https://handbook.unimelb.edu.au/2024/subjects/swen90016)
 
 Courses marked with an asterisk (\*) are currently in progress and not yet completed.
