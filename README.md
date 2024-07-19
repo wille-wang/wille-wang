@@ -61,6 +61,12 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
 - **software development**: I have a deep interest in software development, particularly in building responsive and interactive applications using Java and Python.
 - **artificial intelligence**: I am passionate about leveraging machine learning and deep learning to tackle real-world challenges across various domains, particularly in natural language processing (NLP).
 
+## Contributions
+
+<div>
+  <img src="http://ghchart.rshah.org/wille-wang" alt="contribution graph"/>
+</div>
+
 ## Courses
 
 - **software development**
@@ -79,3 +85,13 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
   - [Information Visualization (GEOM90007)](https://handbook.unimelb.edu.au/2023/subjects/geom90007)
 
 Courses marked with an asterisk (\*) are currently in progress and not yet completed.
+
+<!-- credit: https://github.com/2016rshah/githubchart-api -->
+
+## Visitor Counts
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wille-wang/count.svg" alt="visitor counts"/>
+</div>
+
+<!-- credit: https://github.com/maurodesouza/profile-readme-generator -->
