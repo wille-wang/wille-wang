@@ -24,7 +24,6 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
   </a>
 </div>
 
-
 <!-- credit: https://github.com/tandpfun/skill-icons -->
 
 ## Programming Languages
@@ -76,6 +75,8 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
   <img src="http://ghchart.rshah.org/wille-wang" alt="contribution graph"/>
 </div>
 
+<!-- credit: https://github.com/2016rshah/githubchart-api -->
+
 ## Courses
 
 - **software development**
@@ -94,8 +95,6 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
   - [Information Visualization (GEOM90007)](https://handbook.unimelb.edu.au/2023/subjects/geom90007)
 
 Courses marked with an asterisk (\*) are currently in progress and not yet completed.
-
-<!-- credit: https://github.com/2016rshah/githubchart-api -->
 
 ## Visitor Counts
 
