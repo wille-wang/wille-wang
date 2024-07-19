@@ -12,15 +12,24 @@ I have a strong and diverse passion for software development and artificial inte
 
 Feel free to reach out to me for collaboration, inquiries, or any questions via the following channels:
 
-[![github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/wille-wang)
-[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:wilwangme+github@gmail.com)
-[![mastodon](https://skillicons.dev/icons?i=mastodon&theme=light)](https://mastodon.social/@wille_w)
+<div align="center">
+  <a href="https://github.com/wille-wang" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="50" height="50">
+  </a>
+  <a href="mailto:wilwangme+github@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="gmail" width="50" height="50">
+  </a>
+  <a href="https://mastodon.social/@wille_w" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mastodon&theme=light" alt="mastodon" width="50" height="50">
+  </a>
+</div>
+
 
 <!-- credit: https://github.com/tandpfun/skill-icons -->
 
 ## Programming Languages
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="50" height="50" />
@@ -32,7 +41,7 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
 
 ## Tools
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />
@@ -63,7 +72,7 @@ Feel free to reach out to me for collaboration, inquiries, or any questions via 
 
 ## Contributions
 
-<div>
+<div align="center">
   <img src="http://ghchart.rshah.org/wille-wang" alt="contribution graph"/>
 </div>
 
